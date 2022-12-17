@@ -1,0 +1,28 @@
+body{
+    background: #ffffff;  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+    font-size: 20px;
+}
+
+.btn{
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #75cc75;
+    border: none;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.paste .copy{
+    font-family: sans-serif;
+}
+
+input{
+    padding: 5px 10px;
+}
